@@ -1,0 +1,1 @@
+print("Hello,python installation successful")
