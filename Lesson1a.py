@@ -19,10 +19,11 @@ print(message2)
 #concatination-joining two or more variables
 
 message3=message2+message1
+print(message3)    
 
 
 
-Modcom Learning 14:49
+
 # Create a python program that is able to calculate the simple interest given the principle as 50000, rate as 5% and time as 8 years. SI = (p * R * t)/100
 
 
