@@ -34,15 +34,18 @@ print(not(5>3))
 #false
 
 print("=====================================================================")
+
 #if...else-conditional statement used to evaluate a condition and if it is met the if block executes otherwise the else block is then executed
         #example
 number = -10
+
 if number > 0:
     print("Positive")
 else:
     print("negative")
 
 print("===================================")
+
 #python program able to evaluate whether a number is even or odd number
 number = 2
 if  number %2 == 0:
@@ -52,8 +55,10 @@ else:
 
 print("============================================================================")
 
-#if..elif..else-evaluates multiple conditions
-mynumber = 7
+#if..elif..else-evaluates multiple conditions 
+
+mynumber = 7 
+
 if mynumber > 0:
     print("The number is positive")
 elif mynumber == 0:

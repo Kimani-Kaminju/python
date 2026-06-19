@@ -1,10 +1,12 @@
 #Python loop
-#loop-control structure allows a block of code to be executed repeatedly untill the condition is met
+
+#loop-control structure allows a block of code to be executed repeatedly until the condition is met
+
 # types of loops:
     #for loop
     #while loop
 
-#python loop
+#python  for loop
 
 "for variable in range(n):"
 "   block of code to be executed"
@@ -14,6 +16,7 @@ for greeting in range(500):
     print("Hello there ",greeting)
 
 print("================")
+
 for number in range(10,20):
     print(number)
 
